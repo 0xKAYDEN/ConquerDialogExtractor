@@ -1,0 +1,20 @@
+return {
+    -- Platform [4591]
+    ["STR_ID_Platform[4591][Text1]"] = "Rules are rules. You`ve put the special items into the four stone pillars? If not, the Teleport Platform will not activate.",
+    ["STR_ID_Platform[4591][Text2]"] = "Rules are rules. You`ve put the special items into the four stone pillars? If not, the Teleport Platform will not activate.",
+    ["STR_ID_Platform[4591][Text3]"] = "The Teleport Platform looks mysterious...",
+    ["STR_ID_Platform[4591][Text4]"] = "The Teleport Platform looks mysterious...",
+    ["STR_ID_Platform[4591][Text5]"] = "The platform is activated! Good job! Now, you wanna be teleported to the Rose Garden or not?",
+    ["STR_ID_Platform[4591][Text6]"] = "The platform is activated! Good job! Now, you wanna be teleported to the Rose Garden or not?",
+    ["STR_ID_Platform[4591][Text7]"] = "Sorry, but if the 4 stone pillars are not activated, the Teleport Platform will just be a decoration.",
+    ["STR_ID_Platform[4591][Option1]"] = "Absolutely.~Activate~it~now!",
+    ["STR_ID_Platform[4591][Option2]"] = "Er,~sorry.~I~haven`t.",
+    ["STR_ID_Platform[4591][Option3]"] = "Absolutely.~Activate~it~now!",
+    ["STR_ID_Platform[4591][Option4]"] = "Er,~sorry.~I~haven`t.",
+    ["STR_ID_Platform[4591][Option5]"] = "Send~me~to~the~Rose~Garden.",
+    ["STR_ID_Platform[4591][Option6]"] = "It~looks~so~weird.",
+    ["STR_ID_Platform[4591][Option7]"] = "It~looks~so~weird.",
+    ["STR_ID_Platform[4591][Option8]"] = "What~do~you~think?",
+    ["STR_ID_Platform[4591][Option9]"] = "What~do~you~think?",
+    ["STR_ID_Platform[4591][Option10]"] = "@STR_COMMON[60]",
+}

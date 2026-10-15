@@ -1,0 +1,22 @@
+return {
+    -- TaoistShine [4505]
+    ["STR_ID_TaoistShine[4505][Text1]"] = "Reverence for nature and ancestor spirits is important. Never fool around with celestials.",
+    ["STR_ID_TaoistShine[4505][Text2]"] = "You came for Mo Mo? I`ve heard the story. It`s weird...",
+    ["STR_ID_TaoistShine[4505][Text3]"] = "This Powder is used to bewilder little kids and kidnap them to Ghost City.",
+    ["STR_ID_TaoistShine[4505][Text4]"] = "Hey you! You already have one!",
+    ["STR_ID_TaoistShine[4505][Text5]"] = "I`m afraid he has entered Ghost City, by mistake. Here I have a Charm, with it, you can enter there, too.",
+    ["STR_ID_TaoistShine[4505][Text6]"] = "Take this Powder and use it where Mo Mo was seen missing, and you will be able to enter the city.",
+    ["STR_ID_TaoistShine[4505][Text7]"] = "@STR_COMMON[14]",
+    ["STR_ID_TaoistShine[4505][Text8]"] = "@STR_COMMON[14]",
+    ["STR_ID_TaoistShine[4505][Option1]"] = "You~knew~Mo~Mo?",
+    ["STR_ID_TaoistShine[4505][Option2]"] = "Trust~me.~I`ll~find~Mo~Mo.",
+    ["STR_ID_TaoistShine[4505][Option3]"] = "How~to~get~there?",
+    ["STR_ID_TaoistShine[4505][Option4]"] = "Any~ideas?",
+    ["STR_ID_TaoistShine[4505][Option5]"] = "Any~ideas?",
+    ["STR_ID_TaoistShine[4505][Option6]"] = "@STR_COMMON[66]",
+    ["STR_ID_TaoistShine[4505][Option7]"] = "@STR_COMMON[188]",
+    ["STR_ID_TaoistShine[4505][Option8]"] = "Gimme.",
+    ["STR_ID_TaoistShine[4505][Option9]"] = "@STR_COMMON[66]",
+    ["STR_ID_TaoistShine[4505][Option10]"] = "@STR_COMMON[18]",
+    ["STR_ID_TaoistShine[4505][Option11]"] = "@STR_COMMON[18]",
+}

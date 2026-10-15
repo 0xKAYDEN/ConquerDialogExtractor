@@ -1,0 +1,22 @@
+return {
+    -- ElderPower2 [200124]
+    ["STR_ID_ElderPower2[200124][Text1]"] = "(The Elder Power sitting there looks like settling to meditation, but you know he will never come back to life.",
+    ["STR_ID_ElderPower2[200124][Text2]"] = "~Remember, you must kill the Duke of Hell and protect the imperial mausoleum from the crisis. Keep your promise!)",
+    ["STR_ID_ElderPower2[200124][Text3]"] = "@STR_COMMON[836]",
+    ["STR_ID_ElderPower2[200124][Text4]"] = "@STR_COMMON[837]",
+    ["STR_ID_ElderPower2[200124][Text5]"] = "Humph! If I were not injured earlier, the head of devil would not have a chance to hurt me. gattata1! You came at the right time.",
+    ["STR_ID_ElderPower2[200124][Text6]"] = "~The head of devil has run into the deep tunnel after being hit by me. (Coughing)... Don`t let the devil escape!",
+    ["STR_ID_ElderPower2[200124][Text7]"] = "(Coughing)... Don`t worry about me. Look, I`ll show you how to switch the combat style and help you...",
+    ["STR_ID_ElderPower2[200124][Text8]"] = "~help you unblock the inner barriers. Promise... You should promise to defend the imperial mausoleum against the devils.",
+    ["STR_ID_ElderPower2[200124][Text9]"] = "@STR_COMMON[836]",
+    ["STR_ID_ElderPower2[200124][Text10]"] = "@STR_COMMON[837]",
+    ["STR_ID_ElderPower2[200124][Text11]"] = "Good. It`s now your duty to defend... defend the honor of... Windwalker school. It may be too heavy for you, but...",
+    ["STR_ID_ElderPower2[200124][Text12]"] = "~but I`m old, and I can no longer... no longer...  (The Elder spoke more and more quietly until he closed his eyes.)",
+    ["STR_ID_ElderPower2[200124][Text13]"] = "(The Elder Power sitting there looks like settling to meditation, but you know he will never come back to life.",
+    ["STR_ID_ElderPower2[200124][Text14]"] = "~Remember, you must kill the Duke of Hell and protect the imperial mausoleum from the crisis. Keep your promise!)",
+    ["STR_ID_ElderPower2[200124][Option1]"] = "@STR_COMMON[187]",
+    ["STR_ID_ElderPower2[200124][Option2]"] = "What~about~you?",
+    ["STR_ID_ElderPower2[200124][Option3]"] = "I~promise.",
+    ["STR_ID_ElderPower2[200124][Option4]"] = "No,~no,~my~Elder!",
+    ["STR_ID_ElderPower2[200124][Option5]"] = "@STR_COMMON[187]",
+}

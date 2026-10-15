@@ -1,0 +1,22 @@
+return {
+    -- GeneralJudd [1611]
+    ["STR_ID_GeneralJudd[1611][Text1]"] = "@STR_COMMON[58]",
+    ["STR_ID_GeneralJudd[1611][Text2]"] = "@STR_COMMON[58]",
+    ["STR_ID_GeneralJudd[1611][Text3]"] = "@STR_COMMON[58]",
+    ["STR_ID_GeneralJudd[1611][Text4]"] = "@STR_COMMON[58]",
+    ["STR_ID_GeneralJudd[1611][Text5]"] = "The Emperor keeps track of all those who make donations to his empire. When you have reached level 70, you are able to donate",
+    ["STR_ID_GeneralJudd[1611][Text6]"] = "~money to the Emperor for your nobility rank, which can increase your battle power. Your title is determined by the amount of",
+    ["STR_ID_GeneralJudd[1611][Text7]"] = "~money you have donated.",
+    ["STR_ID_GeneralJudd[1611][Text8]"] = "Click the Nobility Button, input the amount of money you want to donate in the box, and confirm your donation. If you don`t",
+    ["STR_ID_GeneralJudd[1611][Text9]"] = "~have enough silver, you can exchange your CPs for silver to use.",
+    ["STR_ID_GeneralJudd[1611][Text10]"] = "Here is a question for you. How much Battle Power can be added to King/ Queen ranked players?",
+    ["STR_ID_GeneralJudd[1611][Text11]"] = "You mean you saw a potpourri bag just like this before? It must be my nephew, Du San. That poor child. He lost his parents",
+    ["STR_ID_GeneralJudd[1611][Text12]"] = "Really? You`ve got some clues?",
+    ["STR_ID_GeneralJudd[1611][Text13]"] = "I need some one to kill those Snake Men. They must pay for their sins.",
+    ["STR_ID_GeneralJudd[1611][Text14]"] = "He was in Ape City, learning Kungfu. Then our servants reported that he was missing. Several days later,",
+    ["STR_ID_GeneralJudd[1611][Text15]"] = "Really! It`s about time! It must be those snake bites that made Du San go crazy! Please send this Venomous Fang to",
+    ["STR_ID_GeneralJudd[1611][Option1]"] = "How~to~devote~myself?",
+    ["STR_ID_GeneralJudd[1611][Option2]"] = "@STR_COMMON[59]",
+    ["STR_ID_GeneralJudd[1611][Option3]"] = "How~to~donate~money?",
+    ["STR_ID_GeneralJudd[1611][Option4]"] = "@STR_COMMON[60]",
+}

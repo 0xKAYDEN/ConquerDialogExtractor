@@ -1,0 +1,23 @@
+return {
+    -- IntelligenceAgent [8270]
+    ["STR_ID_IntelligenceAgent[8270][Text1]"] = "Hey, there! I`m Intelligence Agent. Want to take the quests and destroy Bandits` plots?",
+    ["STR_ID_IntelligenceAgent[8270][Text2]"] = "You did a good job!",
+    ["STR_ID_IntelligenceAgent[8270][Text3]"] = "You need to get a Bandit`s Coat from the Level 33 Bandits. We will be able to blend in with the rest of the gang, once we have it.",
+    ["STR_ID_IntelligenceAgent[8270][Text4]"] = "We have been here trying to collect information for weeks, but haven`t found anything, yet. We are planning to steal a Bandit`s Coat from",
+    ["STR_ID_IntelligenceAgent[8270][Text5]"] = "You~are~going~to~get~a~Bandit`s~Coat~from~the~Level~33~Bandits.",
+    ["STR_ID_IntelligenceAgent[8270][Text6]"] = "OK. You`ve got the letter. Deliver it to the Phoenix Castellan.",
+    ["STR_ID_IntelligenceAgent[8270][Text7]"] = "@STR_COMMON[428]",
+    ["STR_ID_IntelligenceAgent[8270][Text8]"] = "That`s great. I`m writing a letter. Please deliver it to the Phoenix Castellan.",
+    ["STR_ID_IntelligenceAgent[8270][Text9]"] = "@STR_COMMON[14]",
+    ["STR_ID_IntelligenceAgent[8270][Text10]"] = "@STR_COMMON[14]",
+    ["STR_ID_IntelligenceAgent[8270][Text11]"] = "@STR_COMMON[428]",
+    ["STR_ID_IntelligenceAgent[8270][Text12]"] = "If you happen to be recognized, just try to get another coat from the Level 33 Bandits and try again, later.",
+    ["STR_ID_IntelligenceAgent[8270][Text13]"] = "Put on the Bandit`s Coat, and you won`t be recognized. If you happen to be recognized, just try to get another coat from the Level 33 Bandits.",
+    ["STR_ID_IntelligenceAgent[8270][Text14]"] = "You need to talk to the Bandit Boss and read the confidential letter. If he asks you what the code is, you should answer `Success is around the corner`.",
+    ["STR_ID_IntelligenceAgent[8270][Text15]"] = "You~put~on~the~coat~and~are~going~to~see~the~Bandit~Boss.",
+    ["STR_ID_IntelligenceAgent[8270][Text16]"] = "@STR_COMMON[14]",
+    ["STR_ID_IntelligenceAgent[8270][Option1]"] = "Bandits`~Plot~I.",
+    ["STR_ID_IntelligenceAgent[8270][Option2]"] = "@STR_COMMON[429]",
+    ["STR_ID_IntelligenceAgent[8270][Option3]"] = "Bandits`~Plot~III.",
+    ["STR_ID_IntelligenceAgent[8270][Option4]"] = "Nice~to~meet~you..",
+}

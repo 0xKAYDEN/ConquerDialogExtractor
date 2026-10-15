@@ -1,0 +1,22 @@
+return {
+    -- Plum [4572]
+    ["STR_ID_Plum[4572][Text1]"] = "Days before, a group of bandits in the Desert were killed, overnight. Nobody knows who did it or for what. So, what are you doing here?",
+    ["STR_ID_Plum[4572][Text2]"] = "Take the Tower piece and leave. Anything can happen in these troubled times.",
+    ["STR_ID_Plum[4572][Text3]"] = "Actually, the Star Tower has been broken into three pieces. It`s said one of the pieces was brought to the Desert. Just days before, a group of bandits",
+    ["STR_ID_Plum[4572][Text4]"] = "~in Desert were killed overnight, there.",
+    ["STR_ID_Plum[4572][Text5]"] = "False friends are worse than bitter enemies.",
+    ["STR_ID_Plum[4572][Text6]"] = "As I know, the third Tower Splinter is in the deep of Desert. Go to (166,226) and see what you can find out there. Be careful, though. The long-standing war has",
+    ["STR_ID_Plum[4572][Text7]"] = "~ruined the landscape, leaving only homeless villagers and savage bandits in its wake...",
+    ["STR_ID_Plum[4572][Text8]"] = "Star Tower? Yeah, but I should tell you the road ahead will be long and dangerous. Are you sure you want to continue?",
+    ["STR_ID_Plum[4572][Text9]"] = "As I know, the third Tower Splinter is in the deep of Desert. Go to (166,226) and see what you can find out there. Be careful, though. The long-standing war has",
+    ["STR_ID_Plum[4572][Text10]"] = "~ruined the landscape, leaving only homeless villagers and savage bandits in its wake...",
+    ["STR_ID_Plum[4572][Option1]"] = "Do~you~know~the~Star~Tower?",
+    ["STR_ID_Plum[4572][Option2]"] = "@STR_COMMON[192]",
+    ["STR_ID_Plum[4572][Option3]"] = "@STR_COMMON[170]",
+    ["STR_ID_Plum[4572][Option4]"] = "Where~can~I~find~it?",
+    ["STR_ID_Plum[4572][Option5]"] = "I`d~better~return~home.",
+    ["STR_ID_Plum[4572][Option6]"] = "You~think?",
+    ["STR_ID_Plum[4572][Option7]"] = "I`ll~be~careful.",
+    ["STR_ID_Plum[4572][Option8]"] = "I~can`t~be~sure~more.",
+    ["STR_ID_Plum[4572][Option9]"] = "I`ll~be~careful.",
+}

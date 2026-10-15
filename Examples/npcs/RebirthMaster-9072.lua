@@ -1,0 +1,23 @@
+return {
+    -- RebirthMaster [9072]
+    ["STR_ID_RebirthMaster[9072][Text1]"] = "I devote all my life to the research of eternity. And finally I know the secret of rebirth! Well, anything I can help you with?",
+    ["STR_ID_RebirthMaster[9072][Text2]"] = "Reborn~level~70+~players~can~redistribute~their~attribute~points~at~the~cost~of~a~dragonball.",
+    ["STR_ID_RebirthMaster[9072][Text3]"] = "@STR_COMMON[492]",
+    ["STR_ID_RebirthMaster[9072][Text4]"] = "@STR_COMMON[91]",
+    ["STR_ID_RebirthMaster[9072][Text5]"] = "@STR_COMMON[92]",
+    ["STR_ID_RebirthMaster[9072][Text6]"] = "From now on, have total control of your life! If you've been Reborn twice and are at least Level 110, just bring me some Oblivion Dew and I'll help you become Reincarnated! After the Reincarnation, your class skills will revert to level 0,",
+    ["STR_ID_RebirthMaster[9072][Text7]"] = "Oblivion Dew is available in the Honor Store and the Horse Race Store. You can use your Honor Points or Horse Race Points to purchase one.",
+    ["STR_ID_RebirthMaster[9072][Text8]"] = "You have not been Reborn twice. I`m afraid you will not withstand the power of the Oblivion Dew. Come to me when you get stronger.",
+    ["STR_ID_RebirthMaster[9072][Text9]"] = "There are two kinds of reborns. One is the normal one and the second one is blessed.",
+    ["STR_ID_RebirthMaster[9072][Text10]"] = "Sorry, you don't have CelestialStone.",
+    ["STR_ID_RebirthMaster[9072][Text11]"] = "You~haven`t~reached~the~highest~rank~yet.~Please~work~harder. You cannot reborn if your level is not 110+ for water saints and 120+ for other masters.",
+    ["STR_ID_RebirthMaster[9072][Text12]"] = "You don't worry, it's not gonna hurt you a bit when getting the third life. You just need an exemption token and it's all going to be fine.",
+    ["STR_ID_RebirthMaster[9072][Text13]"] = "@STR_COMMON[493]",
+    ["STR_ID_RebirthMaster[9072][Text14]"] = "Sorry,~you~are~ineligible~for~second~rebirth.~Please~wait~until~you~are~a~level~120~reborn~person.",
+    ["STR_ID_RebirthMaster[9072][Text15]"] = "Select the super gem you desire.",
+    ["STR_ID_RebirthMaster[9072][Text16]"] = "@STR_COMMON[494]",
+    ["STR_ID_RebirthMaster[9072][Text17]"] = "@STR_COMMON[494]",
+    ["STR_ID_RebirthMaster[9072][Text18]"] = "Sorry, but you need atleast 5 free spaces in your inventory.",
+    ["STR_ID_RebirthMaster[9072][Text19]"] = "Sorry, you don't have CelatialStone.",
+    ["STR_ID_RebirthMaster[9072][Text20]"] = "@STR_COMMON[493]",
+}

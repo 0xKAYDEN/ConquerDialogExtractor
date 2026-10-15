@@ -1,0 +1,22 @@
+return {
+    -- IronsmithLi [8438]
+    ["STR_ID_IronsmithLi[8438][Text1]"] = "Hey, I`m an ironsmith. What can I do for you? You need any smithing done, by chance?",
+    ["STR_ID_IronsmithLi[8438][Text2]"] = "So is it a Thunder Stone? I`ll reveal the secret.",
+    ["STR_ID_IronsmithLi[8438][Text3]"] = "@STR_COMMON[469]",
+    ["STR_ID_IronsmithLi[8438][Text4]"] = "Yes! That`s my grindstone! Thank you!",
+    ["STR_ID_IronsmithLi[8438][Text5]"] = "My grindstone was stolen by the Rock Monsters! It`s useless for them but to me, it`s important. Please, go retrieve it!",
+    ["STR_ID_IronsmithLi[8438][Text6]"] = "@STR_COMMON[14]",
+    ["STR_ID_IronsmithLi[8438][Text7]"] = "Great! I`ll go report to the General. Here`s your reward, by the way.",
+    ["STR_ID_IronsmithLi[8438][Text8]"] = "This is my Newly Made Hammer. I need you to test it.",
+    ["STR_ID_IronsmithLi[8438][Text9]"] = "Haha, this is my Newly Made Hammer. I need you to test it out.",
+    ["STR_ID_IronsmithLi[8438][Text10]"] = "@STR_COMMON[14]",
+    ["STR_ID_IronsmithLi[8438][Text11]"] = "See? These hammers are great! Thank you very much!",
+    ["STR_ID_IronsmithLi[8438][Text12]"] = "With the help of Hill Monster`s hammers, I`ll make better weapons.",
+    ["STR_ID_IronsmithLi[8438][Text13]"] = "To be frank, I`m quite interested in the Hill Monster`s hammer. Could you collect some for me?",
+    ["STR_ID_IronsmithLi[8438][Text14]"] = "@STR_COMMON[3]",
+    ["STR_ID_IronsmithLi[8438][Option1]"] = "Stolen~Grindstone.",
+    ["STR_ID_IronsmithLi[8438][Option2]"] = "Ironsmith`s~Request.",
+    ["STR_ID_IronsmithLi[8438][Option3]"] = "The~New~Weapon.",
+    ["STR_ID_IronsmithLi[8438][Option4]"] = "Stolen~Grindstone.",
+    ["STR_ID_IronsmithLi[8438][Option5]"] = "@STR_COMMON[10]",
+}

@@ -1,0 +1,20 @@
+return {
+    -- KungfuMaster [4488]
+    ["STR_ID_KungfuMaster[4488][Text1]"] = "@STR_COMMON[177]",
+    ["STR_ID_KungfuMaster[4488][Text2]"] = "@STR_COMMON[177]",
+    ["STR_ID_KungfuMaster[4488][Text3]"] = "@STR_COMMON[178]",
+    ["STR_ID_KungfuMaster[4488][Text4]"] = "@STR_COMMON[177]",
+    ["STR_ID_KungfuMaster[4488][Text5]"] = "@STR_COMMON[178]",
+    ["STR_ID_KungfuMaster[4488][Text6]"] = "@STR_COMMON[178]",
+    ["STR_ID_KungfuMaster[4488][Text7]"] = "@STR_COMMON[178]",
+    ["STR_ID_KungfuMaster[4488][Text8]"] = "What`s wrong with me? It seemed I`ve had a lot of Conquer7110s these days... I see, it`s a spell... an enchantment... You",
+    ["STR_ID_KungfuMaster[4488][Text9]"] = "Thank you, for saving my life! You can go claim your reward from Taskmaster Chang!",
+    ["STR_ID_KungfuMaster[4488][Text10]"] = "Didn`t I just give you my Hair?",
+    ["STR_ID_KungfuMaster[4488][Text11]"] = "Oh... General Amber missed me... I`m surprised... He always hated me so much. What would make him change his mind?",
+    ["STR_ID_KungfuMaster[4488][Text12]"] = "@STR_COMMON[14]",
+    ["STR_ID_KungfuMaster[4488][Text13]"] = "@STR_COMMON[178]",
+    ["STR_ID_KungfuMaster[4488][Text14]"] = "You can`t just venture out alone in this cruel world, the team system will help you to find some companions to help you! There are two methods to help you to find companions. The first one is to click team button to create a team by yourself and invite",
+    ["STR_ID_KungfuMaster[4488][Text15]"] = "The second method is to click team button and click join to apply to join a team. You can join the team if there are less than 5 members in it, after the team leader agrees.",
+    ["STR_ID_KungfuMaster[4488][Text16]"] = "You will receive bonus experience when slaying monsters in a team. If there is a new player in the team, the team leader will receive Virtue Points when that player levels up. Furthermore, some special quests require players to join as a team.",
+    ["STR_ID_KungfuMaster[4488][Text17]"] = "There are many things for you to learn in this world! Um, I guess you want to learn more, huh? Let me see. What about equipment and armors? That will be useful! Now speak with the Armor in Twin City, he will tell you something about the armors.",
+}

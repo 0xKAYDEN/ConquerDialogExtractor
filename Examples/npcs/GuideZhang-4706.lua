@@ -1,0 +1,20 @@
+return {
+    -- GuideZhang [4706]
+    ["STR_ID_GuideZhang[4706][Text1]"] = "@STR_COMMON[307]",
+    ["STR_ID_GuideZhang[4706][Text2]"] = "@STR_COMMON[307]",
+    ["STR_ID_GuideZhang[4706][Text3]"] = "@STR_COMMON[307]",
+    ["STR_ID_GuideZhang[4706][Text4]"] = "What? You have the Golden Token. I will teleport you to Commander Kerry, now.",
+    ["STR_ID_GuideZhang[4706][Text5]"] = "@STR_COMMON[307]",
+    ["STR_ID_GuideZhang[4706][Text6]"] = "Though you have the Golden Token, you are not a bandit. I can`t teleport you to Commander Kerry.",
+    ["STR_ID_GuideZhang[4706][Text7]"] = "@STR_COMMON[307]",
+    ["STR_ID_GuideZhang[4706][Text8]"] = "@STR_COMMON[307]",
+    ["STR_ID_GuideZhang[4706][Option1]"] = "Hey,~it`s~an~important~thing.",
+    ["STR_ID_GuideZhang[4706][Option2]"] = "@STR_COMMON[259]",
+    ["STR_ID_GuideZhang[4706][Option3]"] = "@STR_COMMON[259]",
+    ["STR_ID_GuideZhang[4706][Option4]"] = "@STR_COMMON[259]",
+    ["STR_ID_GuideZhang[4706][Option5]"] = "@STR_COMMON[259]",
+    ["STR_ID_GuideZhang[4706][Option6]"] = "@STR_COMMON[259]",
+    ["STR_ID_GuideZhang[4706][Option7]"] = "@STR_COMMON[60]",
+    ["STR_ID_GuideZhang[4706][Option8]"] = "@STR_COMMON[259]",
+    ["STR_ID_GuideZhang[4706][Option9]"] = "@STR_COMMON[259]",
+}

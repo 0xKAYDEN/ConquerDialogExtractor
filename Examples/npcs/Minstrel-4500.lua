@@ -1,0 +1,23 @@
+return {
+    -- Minstrel [4500]
+    ["STR_ID_Minstrel[4500][Text1]"] = "@STR_COMMON[183]",
+    ["STR_ID_Minstrel[4500][Text2]"] = "@STR_COMMON[183]",
+    ["STR_ID_Minstrel[4500][Text3]"] = "@STR_COMMON[183]",
+    ["STR_ID_Minstrel[4500][Text4]"] = "@STR_COMMON[183]",
+    ["STR_ID_Minstrel[4500][Text5]"] = "@STR_COMMON[183]",
+    ["STR_ID_Minstrel[4500][Text6]"] = "I heard Antique Dealer Shen has an Antique Ring which could be converted into Mystic Ring. But seems that I can`t even see it...",
+    ["STR_ID_Minstrel[4500][Text7]"] = "A little bird told me an antique dealer named Shen (779,477) is living in a village near Phoenix Castle, and has an Antique Ring. His",
+    ["STR_ID_Minstrel[4500][Text8]"] = "Oh gosh, the Mystic Ring... it`s no different than an ordinary one. But you truly did a great thing.",
+    ["STR_ID_Minstrel[4500][Text9]"] = "Please use the AntiqueRing.",
+    ["STR_ID_Minstrel[4500][Text10]"] = "Finally, the Mystic Ring! Hats off to your gallantry and valor! Now, will you",
+    ["STR_ID_Minstrel[4500][Text11]"] = "Finally, the Mystic Ring! I can`t wait to see its magic! Please, wear it and show me its power! Right now!",
+    ["STR_ID_Minstrel[4500][Text12]"] = "@STR_COMMON[14]",
+    ["STR_ID_Minstrel[4500][Text13]"] = "Thank you for what you`ve done for me! Now you can report to Taskmaster Chang and claim your reward.",
+    ["STR_ID_Minstrel[4500][Text14]"] = "@STR_COMMON[14]",
+    ["STR_ID_Minstrel[4500][Text15]"] = "You have the ring.",
+    ["STR_ID_Minstrel[4500][Option1]"] = "@STR_COMMON[184]",
+    ["STR_ID_Minstrel[4500][Option2]"] = "@STR_COMMON[18]",
+    ["STR_ID_Minstrel[4500][Option3]"] = "@STR_COMMON[18]",
+    ["STR_ID_Minstrel[4500][Option4]"] = "@STR_COMMON[18]",
+    ["STR_ID_Minstrel[4500][Option5]"] = "@STR_COMMON[66]",
+}

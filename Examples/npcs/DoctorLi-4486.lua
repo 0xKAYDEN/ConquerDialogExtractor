@@ -1,0 +1,21 @@
+return {
+    -- DoctorLi [4486]
+    ["STR_ID_DoctorLi[4486][Text1]"] = "@STR_COMMON[172]",
+    ["STR_ID_DoctorLi[4486][Text2]"] = "@STR_COMMON[172]",
+    ["STR_ID_DoctorLi[4486][Text3]"] = "@STR_COMMON[172]",
+    ["STR_ID_DoctorLi[4486][Text4]"] = "@STR_COMMON[172]",
+    ["STR_ID_DoctorLi[4486][Text5]"] = "What? Monkeys are attacking people! I`ve never heard that before!",
+    ["STR_ID_DoctorLi[4486][Text6]"] = "Are you sure it`s monkey`s heart? As far as I know, it`s posioned!",
+    ["STR_ID_DoctorLi[4486][Text7]"] = "@STR_COMMON[14]",
+    ["STR_ID_DoctorLi[4486][Text8]"] = "You did go shockingly frantic! Well, your syndrome reminded me of the bites by Venomous Apes.",
+    ["STR_ID_DoctorLi[4486][Text9]"] = "Look at this poison...I need someone to test it...",
+    ["STR_ID_DoctorLi[4486][Text10]"] = "@STR_COMMON[14]",
+    ["STR_ID_DoctorLi[4486][Text11]"] = "Hey! You still have the poison!",
+    ["STR_ID_DoctorLi[4486][Text12]"] = "The Venomous Apes are harassing people in Love Canyon (795,471) on the outskirts of Ape City.",
+    ["STR_ID_DoctorLi[4486][Text13]"] = "@STR_COMMON[14]",
+    ["STR_ID_DoctorLi[4486][Text14]"] = "Venomous Apes live in Love Canyon (795,471). People will turn frantic after being bitten by them. Search there for clues.",
+    ["STR_ID_DoctorLi[4486][Option1]"] = "@STR_COMMON[18]",
+    ["STR_ID_DoctorLi[4486][Option2]"] = "@STR_COMMON[18]",
+    ["STR_ID_DoctorLi[4486][Option3]"] = "@STR_COMMON[66]",
+    ["STR_ID_DoctorLi[4486][Option4]"] = "@STR_COMMON[18]",
+}

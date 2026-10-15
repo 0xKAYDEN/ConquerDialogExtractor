@@ -1,0 +1,22 @@
+return {
+    -- DarkBox [4593]
+    ["STR_ID_DarkBox[4593][Text1]"] = "@STR_COMMON[236]",
+    ["STR_ID_DarkBox[4593][Text2]"] = "@STR_COMMON[236]",
+    ["STR_ID_DarkBox[4593][Text3]"] = "@STR_COMMON[237]",
+    ["STR_ID_DarkBox[4593][Text4]"] = "@STR_COMMON[237]",
+    ["STR_ID_DarkBox[4593][Text5]"] = "@STR_COMMON[236]",
+    ["STR_ID_DarkBox[4593][Text6]"] = "@STR_COMMON[238]",
+    ["STR_ID_DarkBox[4593][Text7]"] = "@STR_COMMON[239]",
+    ["STR_ID_DarkBox[4593][Text8]"] = "@STR_COMMON[236]",
+    ["STR_ID_DarkBox[4593][Text9]"] = "@STR_COMMON[240]",
+    ["STR_ID_DarkBox[4593][Option1]"] = "@STR_COMMON[60]",
+    ["STR_ID_DarkBox[4593][Option2]"] = "@STR_COMMON[60]",
+    ["STR_ID_DarkBox[4593][Option3]"] = "@STR_COMMON[241]",
+    ["STR_ID_DarkBox[4593][Option4]"] = "@STR_COMMON[241]",
+    ["STR_ID_DarkBox[4593][Option5]"] = "@STR_COMMON[60]",
+    ["STR_ID_DarkBox[4593][Option6]"] = "@STR_COMMON[242]",
+    ["STR_ID_DarkBox[4593][Option7]"] = "@STR_COMMON[233]",
+    ["STR_ID_DarkBox[4593][Option8]"] = "@STR_COMMON[243]",
+    ["STR_ID_DarkBox[4593][Option9]"] = "@STR_COMMON[60]",
+    ["STR_ID_DarkBox[4593][Option10]"] = "@STR_COMMON[140]",
+}

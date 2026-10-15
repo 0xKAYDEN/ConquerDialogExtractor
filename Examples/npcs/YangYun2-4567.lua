@@ -1,0 +1,23 @@
+return {
+    -- YangYun2 [4567]
+    ["STR_ID_YangYun2[4567][Text1]"] = "Well, here we are! This is the Treasure House of our Yang family.",
+    ["STR_ID_YangYun2[4567][Text2]"] = "I really want to help you and the Tang family, but the Tower Splinter I kept has been stolen.",
+    ["STR_ID_YangYun2[4567][Text3]"] = "I really want to help you and the Tang family, but the Tower Splinter I kept has been stolen.",
+    ["STR_ID_YangYun2[4567][Text4]"] = "Years ago, the defensive talisman, Star Tower, was broken into three pieces. For that, our Yang family and the Tang family became enemies. I just",
+    ["STR_ID_YangYun2[4567][Text5]"] = "~happened to have one of the Tower Splinters. Maybe it`s the key to the ending the feud between the two clans.",
+    ["STR_ID_YangYun2[4567][Text6]"] = "I`m afraid you should go find the Tower Splinters around. If you have any problem, just find me on Bird Island. Good luck!",
+    ["STR_ID_YangYun2[4567][Text7]"] = "I can`t believe it! They`ve stolen the Tower piece!! Please, help me get it back!",
+    ["STR_ID_YangYun2[4567][Text8]"] = "Geez! Where had all these bandits come from? Hero, I need you to teach them a lesson! They should stay away from my collections and the Tower Splinter.",
+    ["STR_ID_YangYun2[4567][Text9]"] = "I`m afraid you should go find the Tower Splinters around. If you have any problem, just find me on Bird Island. Good luck!",
+    ["STR_ID_YangYun2[4567][Option1]"] = "Show~me~the~Tower~Splinter.",
+    ["STR_ID_YangYun2[4567][Option2]"] = "It`s~a~nice~place.",
+    ["STR_ID_YangYun2[4567][Option3]"] = "What~should~I~do~next?",
+    ["STR_ID_YangYun2[4567][Option4]"] = "@STR_COMMON[17]",
+    ["STR_ID_YangYun2[4567][Option5]"] = "What~should~I~do~next?",
+    ["STR_ID_YangYun2[4567][Option6]"] = "@STR_COMMON[17]",
+    ["STR_ID_YangYun2[4567][Option7]"] = "@STR_COMMON[197]",
+    ["STR_ID_YangYun2[4567][Option8]"] = "@STR_COMMON[198]",
+    ["STR_ID_YangYun2[4567][Option9]"] = "The~thieves~will~pay~dearly.",
+    ["STR_ID_YangYun2[4567][Option10]"] = "I`ll~take~care~of~it.",
+    ["STR_ID_YangYun2[4567][Option11]"] = "@STR_COMMON[198]",
+}

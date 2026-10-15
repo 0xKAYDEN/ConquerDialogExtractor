@@ -1,0 +1,20 @@
+return {
+    -- Apothecary [8304]
+    ["STR_ID_Apothecary[8304][Text1]"] = "I have been doctored in Ape City for decades. Saving people is my job!",
+    ["STR_ID_Apothecary[8304][Text2]"] = "Poison Master asked you to get a Transmute Pill from me? My friend must have an interesting plan! Ok, this is the Transmute Pill you need!",
+    ["STR_ID_Apothecary[8304][Text3]"] = "@STR_COMMON[416]",
+    ["STR_ID_Apothecary[8304][Text4]"] = "@STR_COMMON[416]",
+    ["STR_ID_Apothecary[8304][Text5]"] = "Please send the Quality Bezoar to my friend Poison Master.",
+    ["STR_ID_Apothecary[8304][Text6]"] = "My friend Poison Master dedicated his life to the research of poison. He even use himself to try the poison and find out the way of detoxification. I am worrying about his body! After so many years of trial, many toxin must have remained in his body!",
+    ["STR_ID_Apothecary[8304][Text7]"] = "Thank you very much for testing the Weary Pill! It seems that it is safe to mankind! Here are your rewards!",
+    ["STR_ID_Apothecary[8304][Text8]"] = "After years of study! I developed a Weary Pill that can deal with the apes in Ape City! But I need someone to test it whether it`s harmful to human beings. Will you try this Weary Pill? Don`t worry, I am a doctor, I can save you if anything bad happens.",
+    ["STR_ID_Apothecary[8304][Text9]"] = "@STR_COMMON[416]",
+    ["STR_ID_Apothecary[8304][Text10]"] = "These are what I have been looking for! Thank you!",
+    ["STR_ID_Apothecary[8304][Text11]"] = "The wounded soldiers are waiting for medicine. Collect 1 Ape Claw, 1 Ape Bone, and 1 Ape Skin for me to make a medicine to treat them!",
+    ["STR_ID_Apothecary[8304][Text12]"] = "Many soldiers were wounded by the monkeys. Collect 1 Ape Claw, 1 Ape Bone, and 1 Ape Skin for me! I can will make a medicine to treat the wounded soldiers.",
+    ["STR_ID_Apothecary[8304][Option1]"] = "@STR_COMMON[459]",
+    ["STR_ID_Apothecary[8304][Option2]"] = "@STR_COMMON[459]",
+    ["STR_ID_Apothecary[8304][Option3]"] = "Quest:~Weary~Pill.",
+    ["STR_ID_Apothecary[8304][Option4]"] = "@STR_COMMON[458]",
+    ["STR_ID_Apothecary[8304][Option5]"] = "Great~doctor!",
+}

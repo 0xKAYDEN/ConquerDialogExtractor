@@ -1,0 +1,21 @@
+return {
+    -- SpringViceGeneralOu [8446]
+    ["STR_ID_SpringViceGeneralOu[8446][Text1]"] = "I enjoy studying about smithing and forging powerful weapons for our soldiers!",
+    ["STR_ID_SpringViceGeneralOu[8446][Text2]"] = "Hurry to deliver the water to the villagers!",
+    ["STR_ID_SpringViceGeneralOu[8446][Text3]"] = "These days, villagers are too scared because of the Blade Ghosts. I need some volunteers to disguise as Blade Ghosts and go fetch water for the villagers.",
+    ["STR_ID_SpringViceGeneralOu[8446][Text4]"] = "@STR_COMMON[14]",
+    ["STR_ID_SpringViceGeneralOu[8446][Text5]"] = "Thank you! You deserve the reward.",
+    ["STR_ID_SpringViceGeneralOu[8446][Text6]"] = "I need you to kill the Level 83 Blade Ghosts and cut off their ears. Bring me back 5 ears, and I`ll have more work for you.",
+    ["STR_ID_SpringViceGeneralOu[8446][Text7]"] = "I was injured by the Level 83 Blade Ghosts! I need you to give them a lesson!",
+    ["STR_ID_SpringViceGeneralOu[8446][Text8]"] = "@STR_COMMON[14]",
+    ["STR_ID_SpringViceGeneralOu[8446][Text9]"] = "I need you kill them and cut their ears. What about bringing me 5 ears?",
+    ["STR_ID_SpringViceGeneralOu[8446][Text10]"] = "That`s perfect. Thank you! Please, take your reward!",
+    ["STR_ID_SpringViceGeneralOu[8446][Text11]"] = "I need you to gather 5 Sharp Blades from the Blade Ghosts.",
+    ["STR_ID_SpringViceGeneralOu[8446][Text12]"] = "I`m quite interested in the Blade Ghost`s weapon, the Sharp Blade.",
+    ["STR_ID_SpringViceGeneralOu[8446][Text13]"] = "@STR_COMMON[14]",
+    ["STR_ID_SpringViceGeneralOu[8446][Text14]"] = "The Blade Ghosts out there are carrying the Sharp Blades. I need 5, if you think you can get them.",
+    ["STR_ID_SpringViceGeneralOu[8446][Option1]"] = "Sharp~Blade.",
+    ["STR_ID_SpringViceGeneralOu[8446][Option2]"] = "The~Avenger.",
+    ["STR_ID_SpringViceGeneralOu[8446][Option3]"] = "Deliver~the~Water~(Daily).",
+    ["STR_ID_SpringViceGeneralOu[8446][Option4]"] = "@STR_COMMON[198]",
+}

@@ -1,0 +1,22 @@
+return {
+    -- Mulan [8542]
+    ["STR_ID_Mulan[8542][Text1]"] = "Do you believe I can also do what any man can do? I`ll join the army and to be a general, someday. Then I`ll realize my father`s wish of serving the country. Yeah, that`s",
+    ["STR_ID_Mulan[8542][Text2]"] = "Did you see my father? No? Come on, I should keep my mind on combat. Please go to the Fishing Village and tell Harriet `I`m fine`, okay? Just that.",
+    ["STR_ID_Mulan[8542][Text3]"] = "No, I`m fine. I`m glad to hear that, and I really want to join the army, but I know I`m not strong enough. So, I decided to stay here and keep practicing.",
+    ["STR_ID_Mulan[8542][Text4]"] = "@STR_COMMON[14]",
+    ["STR_ID_Mulan[8542][Text5]"] = "Really? General Armand asked me to return to the army? That`s wonderful! Wait... Um... I think I need more time to consider it.",
+    ["STR_ID_Mulan[8542][Text6]"] = "Why are you still here? You haven`t informed General Armand of the Banditti`s plan, have you? It`s an emergency! Please be quick!",
+    ["STR_ID_Mulan[8542][Text7]"] = "Hush! When I was looking for the Royal Sword, I found the Banditti plotted to ally with the Bandits L98 and attack the army from the back. If their plan succeeds, you",
+    ["STR_ID_Mulan[8542][Text8]"] = "Yeah, that`s my Royal Sword! Without your help, I don`t even know how to face my father. I`ll be more cautious with those cunning Banditti. However, I feel I`m not",
+    ["STR_ID_Mulan[8542][Text9]"] = "Did you find the Royal Sword? No? My father will be angry with me, and he won`t forgive me. He treats that sword as his life. What can I do now?",
+    ["STR_ID_Mulan[8542][Text10]"] = "Um... Not very well. General Armand found out I was a girl soon after I arrived the camp. Although he didn`t reveal my true identity, he forced me to leave...",
+    ["STR_ID_Mulan[8542][Text11]"] = "I`ve thought of that, but I can`t return now, since the Royal Sword was taken by the Banditti. If they weren`t hiding in the dark, I wouldn`t be caught so easily.",
+    ["STR_ID_Mulan[8542][Text12]"] = "@STR_COMMON[14]",
+    ["STR_ID_Mulan[8542][Text13]"] = "How do you know my name? Did my father send you here? Alright. You don`t need to try and persuade me, since I won`t return home before realizing my father`s dream.",
+    ["STR_ID_Mulan[8542][Option1]"] = "Are~you~Mulan?",
+    ["STR_ID_Mulan[8542][Option2]"] = "How~are~things~going,~now?",
+    ["STR_ID_Mulan[8542][Option3]"] = "Tell~me~all~you~know.",
+    ["STR_ID_Mulan[8542][Option4]"] = "General~Armand~sent~me~here.",
+    ["STR_ID_Mulan[8542][Option5]"] = "Is~anything~wrong?",
+    ["STR_ID_Mulan[8542][Option6]"] = "You~did~have~a~great~mind!",
+}

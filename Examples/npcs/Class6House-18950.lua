@@ -1,0 +1,21 @@
+return {
+    -- Class6House [18950]
+    ["STR_ID_Class6House[18950][Text1]"] = "Welcome, this is the Class 6 model house with many new features. When you`re walking around the house,",
+    ["STR_ID_Class6House[18950][Text2]"] = "There are two ways to upgrade to Class 6: pay 8,999 CPs or submit 500 Class 6 House Packs. You can collect the Class 6 House Packs",
+    ["STR_ID_Class6House[18950][Text3]"] = "We need totally 500 Class 6 House Packs to upgrade your house to Class 6. So, how many packs would you like to submit this time?",
+    ["STR_ID_Class6House[18950][Text4]"] = "@STR_COMMON[720]",
+    ["STR_ID_Class6House[18950][Text5]"] = "@STR_COMMON[721]",
+    ["STR_ID_Class6House[18950][Text6]"] = "You have failed to upgrade the house to level 6 , give a try again later maybe you will have more luck .",
+    ["STR_ID_Class6House[18950][Text7]"] = "@STR_COMMON[722]",
+    ["STR_ID_Class6House[18950][Text8]"] = "@STR_COMMON[720]",
+    ["STR_ID_Class6House[18950][Text9]"] = "@STR_COMMON[721]",
+    ["STR_ID_Class6House[18950][Text10]"] = "@STR_COMMON[722]",
+    ["STR_ID_Class6House[18950][Text11]"] = "@STR_COMMON[720]",
+    ["STR_ID_Class6House[18950][Text12]"] = "@STR_COMMON[721]",
+    ["STR_ID_Class6House[18950][Text13]"] = "Sorry, I can`t help you in this matter since you don`t have enough CPs. Please bring the money, next time.",
+    ["STR_ID_Class6House[18950][Option1]"] = "Upgrade~my~house~with~CPs.",
+    ["STR_ID_Class6House[18950][Option2]"] = "Use~materials~to~upgrade.",
+    ["STR_ID_Class6House[18950][Option3]"] = "How~to~upgrade~my~house?",
+    ["STR_ID_Class6House[18950][Option4]"] = "Where~is~the~exit?",
+    ["STR_ID_Class6House[18950][Option5]"] = "@STR_COMMON[72]",
+}

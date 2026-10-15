@@ -1,0 +1,20 @@
+return {
+    -- YeSheng [4569]
+    ["STR_ID_YeSheng[4569][Text1]"] = "There are quite a number of mysteries, down here. You can tell a lot from this single Iron Poise.",
+    ["STR_ID_YeSheng[4569][Text2]"] = "There are quite a number of mysteries, down here. You can tell a lot from this single Iron Poise.",
+    ["STR_ID_YeSheng[4569][Text3]"] = "Come on, now! I`m selling this Iron Poise at a cut-throat price! Three fish for one! Hey, you know how to",
+    ["STR_ID_YeSheng[4569][Text4]"] = "~get fish? Go buy a Fishing Net from the Net Peddler (321,371) and catch fish near the Island. Good luck!",
+    ["STR_ID_YeSheng[4569][Text5]"] = "Wow, the fish you brought is wonderful! Take this Iron Poise! You can use it to remove the spell at the stone doors (344,403),",
+    ["STR_ID_YeSheng[4569][Text6]"] = "~then the path to the underground chamber will be open ahead of you.",
+    ["STR_ID_YeSheng[4569][Text7]"] = "Your inventory is full! Get rid of some stuff and you can come back for the Iron Poise.",
+    ["STR_ID_YeSheng[4569][Text8]"] = "Are you kidding? You don`t have any fish with you! Go buy a Fishing Net from the Net Peddler (189,183)",
+    ["STR_ID_YeSheng[4569][Text9]"] = "~and catch fish near the water. Remember, I want THREE fish for one Iron Poise!",
+    ["STR_ID_YeSheng[4569][Option1]"] = "What`s~the~price?",
+    ["STR_ID_YeSheng[4569][Option2]"] = "That~is~fake,~maybe.",
+    ["STR_ID_YeSheng[4569][Option3]"] = "That~is~fake,~maybe.",
+    ["STR_ID_YeSheng[4569][Option4]"] = "I`ve~got~your~fish.",
+    ["STR_ID_YeSheng[4569][Option5]"] = "I~hope,~too.",
+    ["STR_ID_YeSheng[4569][Option6]"] = "@STR_COMMON[60]",
+    ["STR_ID_YeSheng[4569][Option7]"] = "@STR_COMMON[195]",
+    ["STR_ID_YeSheng[4569][Option8]"] = "@STR_COMMON[135]",
+}

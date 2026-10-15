@@ -1,0 +1,100 @@
+return {
+    -- ServerGift [465126]
+    ["STR_ID_ServerGift[465126][Text1]"] = "@STR_COMMON[750]",
+    -- {0}=client.Player.Name, {1}=Program.ServerConfig.ServerName
+    ["STR_ID_ServerGift[465126][Text2]"] = "Hello {0}, Welcome to [{1}] I will be your guide in the server.\n",
+    ["STR_ID_ServerGift[465126][Text3]"] = "@STR_COMMON[751]",
+    ["STR_ID_ServerGift[465126][Text4]"] = "@STR_COMMON[750]",
+    ["STR_ID_ServerGift[465126][Text5]"] = "@STR_COMMON[750]",
+    -- {0}=client.Player.Name, {1}=Program.ServerConfig.ServerName
+    ["STR_ID_ServerGift[465126][Text6]"] = "Hello {0}, Welcome to [{1}], are you ready to hunt some monestors and collect some Conquer Points ?\n",
+    ["STR_ID_ServerGift[465126][Text7]"] = "@STR_COMMON[751]",
+    ["STR_ID_ServerGift[465126][Text8]"] = "@STR_COMMON[750]",
+    ["STR_ID_ServerGift[465126][Text9]"] = "@STR_COMMON[750]",
+    -- {0}=client.Player.Name, {1}=Program.ServerConfig.ServerName
+    ["STR_ID_ServerGift[465126][Text10]"] = "Hello dear supporter {0}, Welcome to [{1} Server] I will be Glad to tell you about our social media.\n",
+    ["STR_ID_ServerGift[465126][Text11]"] = "@STR_COMMON[750]",
+    ["STR_ID_ServerGift[465126][Text12]"] = "You have already claimed your reward for voting. You may only vote once every 12 hour per IP address.\n",
+    ["STR_ID_ServerGift[465126][Text13]"] = "@STR_COMMON[750]",
+    -- {0}=client.Player.Name, {1}=client.Player.Vote
+    ["STR_ID_ServerGift[465126][Text14]"] = "Hello dear supporter {0}, Thank you for Supporting our server you have [{1}] Point.\n",
+    ["STR_ID_ServerGift[465126][Text15]"] = "@STR_COMMON[750]",
+    ["STR_ID_ServerGift[465126][Text16]"] = "@STR_COMMON[750]",
+    -- {0}=client.Player.Name, {1}=client.Player.Vote
+    ["STR_ID_ServerGift[465126][Text17]"] = "Hello dear supporter {0}, it's time to be rewarded you have [{1}] Point.\n",
+    ["STR_ID_ServerGift[465126][Text18]"] = "What do you like to get?\n",
+    ["STR_ID_ServerGift[465126][Text19]"] = "@STR_COMMON[750]",
+    -- {0}=client.Player.Name, {1}=client.Player.Vote
+    ["STR_ID_ServerGift[465126][Text20]"] = "Congratulations dear supporter {0}, you got [3000 Online Point], you have Now [{1}] Point.\n",
+    -- {0}=client.Player.Name, {1}=client.Player.Vote
+    ["STR_ID_ServerGift[465126][Text21]"] = "@STR_COMMON[859]",
+    -- {0}=client.Player.Name, {1}=client.Player.Vote
+    ["STR_ID_ServerGift[465126][Text22]"] = "Congratulations dear supporter {0}, you got [Gold Trohpy], you have Now [{1}] Point.\n",
+    -- {0}=client.Player.Name, {1}=client.Player.Vote
+    ["STR_ID_ServerGift[465126][Text23]"] = "@STR_COMMON[859]",
+    -- {0}=client.Player.Name, {1}=client.Player.Vote
+    ["STR_ID_ServerGift[465126][Text24]"] = "Congratulations dear supporter {0}, you got [x10 Stone+8], you have Now [{1}] Point.\n",
+    -- {0}=client.Player.Name, {1}=client.Player.Vote
+    ["STR_ID_ServerGift[465126][Text25]"] = "@STR_COMMON[859]",
+    -- {0}=client.Player.Name, {1}=client.Player.Vote
+    ["STR_ID_ServerGift[465126][Text26]"] = "Congratulations dear supporter {0}, you got [30Days VIP6], you have Now [{1}] Point.\n",
+    -- {0}=client.Player.Name, {1}=client.Player.Vote
+    ["STR_ID_ServerGift[465126][Text27]"] = "@STR_COMMON[859]",
+    -- {0}=client.Player.Name
+    ["STR_ID_ServerGift[465126][Text28]"] = "Congratulations [{0}], Now you can select your gift as you like ;))  \n",
+    -- {0}=client.Player.Name
+    ["STR_ID_ServerGift[465126][Text29]"] = "Hello Dear {0}, unfortunately there is no gifts right now \n ",
+    ["STR_ID_ServerGift[465126][Text30]"] = "@STR_COMMON[849]",
+    ["STR_ID_ServerGift[465126][Text31]"] = "You Must Have 3 Spaces In your Inventory \n",
+    ["STR_ID_ServerGift[465126][Text32]"] = "@STR_COMMON[849]",
+    ["STR_ID_ServerGift[465126][Text33]"] = "@STR_COMMON[750]",
+    -- {0}=client.Player.Name
+    ["STR_ID_ServerGift[465126][Text34]"] = "Hello {0}, Welcome to [DeadRabbit Server] I will be Glad to tell you about our social media.",
+    ["STR_ID_ServerGift[465126][Text35]"] = "@STR_COMMON[750]",
+    ["STR_ID_ServerGift[465126][Option1]"] = "1-Vote",
+    ["STR_ID_ServerGift[465126][Option2]"] = "2-Level",
+    ["STR_ID_ServerGift[465126][Option3]"] = "3-Stuff",
+    ["STR_ID_ServerGift[465126][Option4]"] = "4-Reborn",
+    ["STR_ID_ServerGift[465126][Option5]"] = "5-Server Gift",
+    ["STR_ID_ServerGift[465126][Option6]"] = "6-Shops",
+    ["STR_ID_ServerGift[465126][Option7]"] = "7-Wars",
+    ["STR_ID_ServerGift[465126][Option8]"] = "8-Big Monestors",
+    ["STR_ID_ServerGift[465126][Option9]"] = "9-Hunt Map",
+    ["STR_ID_ServerGift[465126][Option10]"] = "10-Social Media",
+    ["STR_ID_ServerGift[465126][Option11]"] = "11-Events",
+    ["STR_ID_ServerGift[465126][Option12]"] = "@STR_COMMON[838]",
+    ["STR_ID_ServerGift[465126][Option13]"] = "@STR_COMMON[838]",
+    ["STR_ID_ServerGift[465126][Option14]"] = "1-Vote",
+    ["STR_ID_ServerGift[465126][Option15]"] = "2-My Points",
+    ["STR_ID_ServerGift[465126][Option16]"] = "3-Exchange Points",
+    ["STR_ID_ServerGift[465126][Option17]"] = "@STR_COMMON[838]",
+    ["STR_ID_ServerGift[465126][Option18]"] = "3-Exchange Points",
+    ["STR_ID_ServerGift[465126][Option19]"] = "@STR_COMMON[838]",
+    ["STR_ID_ServerGift[465126][Option20]"] = "1-x3000 Online Points [10]",
+    ["STR_ID_ServerGift[465126][Option21]"] = "2-Gold Trophy [50]",
+    ["STR_ID_ServerGift[465126][Option22]"] = "3-x1 Anima P9 [30]",
+    ["STR_ID_ServerGift[465126][Option23]"] = "4-x10 Stone+8 [40]",
+    ["STR_ID_ServerGift[465126][Option24]"] = "5-30 Days Vip6 [15]",
+    ["STR_ID_ServerGift[465126][Option25]"] = "@STR_COMMON[838]",
+    ["STR_ID_ServerGift[465126][Option26]"] = "@STR_COMMON[10]",
+    ["STR_ID_ServerGift[465126][Option27]"] = "@STR_COMMON[346]",
+    ["STR_ID_ServerGift[465126][Option28]"] = "@STR_COMMON[10]",
+    ["STR_ID_ServerGift[465126][Option29]"] = "@STR_COMMON[346]",
+    ["STR_ID_ServerGift[465126][Option30]"] = "@STR_COMMON[10]",
+    ["STR_ID_ServerGift[465126][Option31]"] = "@STR_COMMON[346]",
+    ["STR_ID_ServerGift[465126][Option32]"] = "@STR_COMMON[10]",
+    ["STR_ID_ServerGift[465126][Option33]"] = "@STR_COMMON[346]",
+    ["STR_ID_ServerGift[465126][Option34]"] = "Full InnerPower",
+    ["STR_ID_ServerGift[465126][Option35]"] = "Gold Trohpy",
+    ["STR_ID_ServerGift[465126][Option36]"] = "x3 AnimeP10",
+    ["STR_ID_ServerGift[465126][Option37]"] = "1000 Online Point",
+    ["STR_ID_ServerGift[465126][Option38]"] = "Full Relic",
+    ["STR_ID_ServerGift[465126][Option39]"] = "I want some time to think",
+    ["STR_ID_ServerGift[465126][Option40]"] = "That's Sad (:",
+    ["STR_ID_ServerGift[465126][Option41]"] = "@STR_COMMON[346]",
+    ["STR_ID_ServerGift[465126][Option42]"] = "@STR_COMMON[346]",
+    ["STR_ID_ServerGift[465126][Option43]"] = "@STR_COMMON[346]",
+    ["STR_ID_ServerGift[465126][Option44]"] = "1-Facebook",
+    ["STR_ID_ServerGift[465126][Option45]"] = "2-Discord",
+    ["STR_ID_ServerGift[465126][Option46]"] = "3-Youtube",
+}

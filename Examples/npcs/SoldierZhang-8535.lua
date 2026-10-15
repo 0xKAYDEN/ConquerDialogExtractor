@@ -1,0 +1,20 @@
+return {
+    -- SoldierZhang [8535]
+    ["STR_ID_SoldierZhang[8535][Text1]"] = "The HawKings are so terrible...",
+    ["STR_ID_SoldierZhang[8535][Text2]"] = "What? You got it from a soldier`s corpse? No! It must be my brother. I have a same one like this. Thank you, anyway.",
+    ["STR_ID_SoldierZhang[8535][Text3]"] = "Please bring this letter to my mother. My home is on north Fishpond Island.",
+    ["STR_ID_SoldierZhang[8535][Text4]"] = "I`ve been here for 2 years, and never went back home. My old mother lives alone, on north Fishpond Island.",
+    ["STR_ID_SoldierZhang[8535][Text5]"] = "Of course. But the only thing I can do is to pray that she is healthy. Could you please give this letter",
+    ["STR_ID_SoldierZhang[8535][Text6]"] = "@STR_COMMON[14]",
+    ["STR_ID_SoldierZhang[8535][Text7]"] = "You killed the monsters, but my friends still won`t come back... Thanks for your help, anyway.",
+    ["STR_ID_SoldierZhang[8535][Text8]"] = "Kill the Hawks! That`s the only way to avenge my dead friends.",
+    ["STR_ID_SoldierZhang[8535][Text9]"] = "I`m dreaming of my dead friends, everyday. Just painful... How I wish I could avenge them! But I`m just too",
+    ["STR_ID_SoldierZhang[8535][Text10]"] = "You did it! Thank you very much! Rest in peace, my friends...",
+    ["STR_ID_SoldierZhang[8535][Text11]"] = "Hurry up! I hope that they will rest in peace!",
+    ["STR_ID_SoldierZhang[8535][Text12]"] = "This war was so awful. Though we won, many soldiers died during the war. Could you please kill some HawkL93",
+    ["STR_ID_SoldierZhang[8535][Option1]"] = "@STR_COMMON[292]",
+    ["STR_ID_SoldierZhang[8535][Option2]"] = "Revenge",
+    ["STR_ID_SoldierZhang[8535][Option3]"] = "Soldier`s~Letter.",
+    ["STR_ID_SoldierZhang[8535][Option4]"] = "An~accessory",
+    ["STR_ID_SoldierZhang[8535][Option5]"] = "Be~careful.",
+}

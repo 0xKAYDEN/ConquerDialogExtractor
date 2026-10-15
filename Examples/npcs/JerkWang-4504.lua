@@ -1,0 +1,22 @@
+return {
+    -- JerkWang [4504]
+    ["STR_ID_JerkWang[4504][Text1]"] = "Impossible is nothing. Nothing is impossible.",
+    ["STR_ID_JerkWang[4504][Text2]"] = "It was all my fault. I should have kept an eye on him. I was reading. Mo Mo was out playing alone.",
+    ["STR_ID_JerkWang[4504][Text3]"] = "Some one saw him disappear in the east of the city all of a sudden. Will you find him for me?",
+    ["STR_ID_JerkWang[4504][Text4]"] = "It`s all my fault... I should have been more careful...",
+    ["STR_ID_JerkWang[4504][Text5]"] = "Mo Mo was seen in these three spots: (269,215), (298,205) and (357,304). Please search there.",
+    ["STR_ID_JerkWang[4504][Text6]"] = "@STR_COMMON[14]",
+    ["STR_ID_JerkWang[4504][Text7]"] = "Ah... now I remember, maybe you should visit Taoist Shine (245,258). He lives in Twin City",
+    ["STR_ID_JerkWang[4504][Text8]"] = "Taoist Shine (245,258) must know why. Please pay him a visit.",
+    ["STR_ID_JerkWang[4504][Option1]"] = "Where`s~Mo~Mo?",
+    ["STR_ID_JerkWang[4504][Option2]"] = "I`m~trying~find~Mo~Mo.",
+    ["STR_ID_JerkWang[4504][Option3]"] = "Do~you~have~any~solution?",
+    ["STR_ID_JerkWang[4504][Option4]"] = "Just~do~it.",
+    ["STR_ID_JerkWang[4504][Option5]"] = "Then~what?",
+    ["STR_ID_JerkWang[4504][Option6]"] = "@STR_COMMON[117]",
+    ["STR_ID_JerkWang[4504][Option7]"] = "What~shall~we~do?",
+    ["STR_ID_JerkWang[4504][Option8]"] = "@STR_COMMON[165]",
+    ["STR_ID_JerkWang[4504][Option9]"] = "@STR_COMMON[18]",
+    ["STR_ID_JerkWang[4504][Option10]"] = "I`ll~visit~him.",
+    ["STR_ID_JerkWang[4504][Option11]"] = "Good~idea!",
+}

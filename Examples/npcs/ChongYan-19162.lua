@@ -1,0 +1,23 @@
+return {
+    -- ChongYan [19162]
+    ["STR_ID_ChongYan[19162][Text1]"] = "Why did you come back again?",
+    ["STR_ID_ChongYan[19162][Text2]"] = "HELP! HELP! Could you help me out?",
+    ["STR_ID_ChongYan[19162][Text3]"] = "Have you cleared those monsters nearby?",
+    ["STR_ID_ChongYan[19162][Text4]"] = "Hero, you saved my life, and I am eternally grateful! We got attacked by a horde of",
+    ["STR_ID_ChongYan[19162][Text5]"] = "We're okay. Please go find the Flame Temple and remember my words. It's so urgent!",
+    ["STR_ID_ChongYan[19162][Text6]"] = "The Chief asked you to find us? If so, you must have known the importance of the Flame Temple.",
+    ["STR_ID_ChongYan[19162][Text7]"] = "Time is limited. Please hit the road now.",
+    ["STR_ID_ChongYan[19162][Text8]"] = "Now the monsters have been swept off, we`ll continue to find the Flame Temple.",
+    ["STR_ID_ChongYan[19162][Text9]"] = "i got stuck here, you my people are still waiting for my news about the Flame Temple. ",
+    ["STR_ID_ChongYan[19162][Text10]"] = "You meant you got this metal block from the Forge Furnace? It`s hard to tell what it is,",
+    ["STR_ID_ChongYan[19162][Text11]"] = "@STR_COMMON[416]",
+    ["STR_ID_ChongYan[19162][Text12]"] = "Now the monsters have been swept off, we`ll continue to find the Flame Temple.",
+    ["STR_ID_ChongYan[19162][Text13]"] = "It`s great! See that Fiery Dragon Volcano over there? The Flame Temple was built at the foot of the volcano.",
+    ["STR_ID_ChongYan[19162][Text14]"] = "@STR_COMMON[416]",
+    ["STR_ID_ChongYan[19162][Text15]"] = "The Chief asked you to find us? If so, you must have known the importance of the Flame Temple.",
+    ["STR_ID_ChongYan[19162][Text16]"] = "Thanks for your help! We`re finally safe now.",
+    ["STR_ID_ChongYan[19162][Text17]"] = "There are still many monsters crawling around. Could you kill more?",
+    ["STR_ID_ChongYan[19162][Text18]"] = "I don`t know, but I saw flame runes imprinted on their body. Every time I tried to approach them,",
+    ["STR_ID_ChongYan[19162][Text19]"] = "@STR_COMMON[416]",
+    ["STR_ID_ChongYan[19162][Text20]"] = "Hero, you saved my life, and I am eternally grateful! We got attacked by a horde of",
+}

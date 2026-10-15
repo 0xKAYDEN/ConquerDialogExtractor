@@ -1,0 +1,20 @@
+return {
+    -- DCViceGenera [8426]
+    ["STR_ID_DCViceGenera[8426][Text1]"] = "There are many dangerous creatures in the desert. Once you step through here, I won`t be able to protect you anymore. Take care.",
+    ["STR_ID_DCViceGenera[8426][Text2]"] = "The Sandbag is open! We did it!",
+    ["STR_ID_DCViceGenera[8426][Text3]"] = "You`re going to collect some water from the source in the city and spread the water over the city gates.",
+    ["STR_ID_DCViceGenera[8426][Text4]"] = "@STR_COMMON[26]",
+    ["STR_ID_DCViceGenera[8426][Text5]"] = "A lot of yellow sand? That`s weird. This information is important. Thanks for you help!",
+    ["STR_ID_DCViceGenera[8426][Text6]"] = "@STR_COMMON[465]",
+    ["STR_ID_DCViceGenera[8426][Text7]"] = "@STR_COMMON[465]",
+    ["STR_ID_DCViceGenera[8426][Text8]"] = "The Sand Monsters want to use the Sandbags to attack the city? Thanks for the information. Here`s your reward!",
+    ["STR_ID_DCViceGenera[8426][Text9]"] = "The Sand Monsters must have something to do with the weird yellow sand. I need you to turn to the Sand Monsters for some clues.",
+    ["STR_ID_DCViceGenera[8426][Text10]"] = "The Sand Monsters must have something to do with the weird yellow sand. I need you to return to the Sand Monsters to look for clues.",
+    ["STR_ID_DCViceGenera[8426][Text11]"] = "These Sandbags can`t be opened somehow. I`ve tried many ways, and even the a blade doesn`t work. Can you deliver it to Taoist Yu? Maybe he can figure that out.",
+    ["STR_ID_DCViceGenera[8426][Text12]"] = "These Sandbags can`t be opened, no matter what I do. I`ve tried many ways, and even a blade won`t work. Can you take it to Taoist Yu? Maybe he can figure it out.",
+    ["STR_ID_DCViceGenera[8426][Option1]"] = "Hidden~Danger~1.",
+    ["STR_ID_DCViceGenera[8426][Option2]"] = "Hidden~Danger~2.",
+    ["STR_ID_DCViceGenera[8426][Option3]"] = "@STR_COMMON[466]",
+    ["STR_ID_DCViceGenera[8426][Option4]"] = "@STR_COMMON[467]",
+    ["STR_ID_DCViceGenera[8426][Option5]"] = "@STR_COMMON[10]",
+}

@@ -1,0 +1,23 @@
+return {
+    -- SpringGeneralXu [8445]
+    ["STR_ID_SpringGeneralXu[8445][Text1]"] = "My job is to guard the Moon Spring.",
+    ["STR_ID_SpringGeneralXu[8445][Text2]"] = "I really want to pay a visit to the elder. Please go ask if he is free to talk.",
+    ["STR_ID_SpringGeneralXu[8445][Text3]"] = "What? Catch fish on a straight hook and above the water? That`s interesting.",
+    ["STR_ID_SpringGeneralXu[8445][Text4]"] = "@STR_COMMON[14]",
+    ["STR_ID_SpringGeneralXu[8445][Text5]"] = "I really want to pay a visit to the elder. Please go ask if he is free to talk.",
+    ["STR_ID_SpringGeneralXu[8445][Text6]"] = "Thanks for what you`ve done for us.",
+    ["STR_ID_SpringGeneralXu[8445][Text7]"] = "Have you killed 30 Level 83 Blade Ghosts, already?",
+    ["STR_ID_SpringGeneralXu[8445][Text8]"] = "Have you ever seen the Level 83 Blade Ghosts? They`re smaller than Blade Ghosts, but much crueler. Well, I need you to go kill 30 of them!",
+    ["STR_ID_SpringGeneralXu[8445][Text9]"] = "@STR_COMMON[14]",
+    ["STR_ID_SpringGeneralXu[8445][Text10]"] = "Keep up the good job. Here`s your reward!",
+    ["STR_ID_SpringGeneralXu[8445][Text11]"] = "What are you waiting for? Go kill 50 Blade Ghosts!",
+    ["STR_ID_SpringGeneralXu[8445][Text12]"] = "I don`t know why, but more and more Blade Ghosts are gathering outside the village. I need you to kill 50 of them!",
+    ["STR_ID_SpringGeneralXu[8445][Text13]"] = "@STR_COMMON[3]",
+    ["STR_ID_SpringGeneralXu[8445][Text14]"] = "It`s a good idea! I`ll ask the villagers to plant some cactus!",
+    ["STR_ID_SpringGeneralXu[8445][Option1]"] = "Elder~Jiang~2.",
+    ["STR_ID_SpringGeneralXu[8445][Option2]"] = "Elder~Jiang~3.",
+    ["STR_ID_SpringGeneralXu[8445][Option3]"] = "Visit~Spring~General.",
+    ["STR_ID_SpringGeneralXu[8445][Option4]"] = "Protect~the~Moon~Spring.",
+    ["STR_ID_SpringGeneralXu[8445][Option5]"] = "Kill~the~Blade~Ghosts~(L83).",
+    ["STR_ID_SpringGeneralXu[8445][Option6]"] = "@STR_COMMON[115]",
+}

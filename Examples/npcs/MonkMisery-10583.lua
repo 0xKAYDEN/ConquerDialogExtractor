@@ -1,0 +1,21 @@
+return {
+    -- MonkMisery [10583]
+    ["STR_ID_MonkMisery[10583][Text1]"] = "Ah,~how~dare~you~come~back~for~death!~I`ve~made~a~perfect~plan,~but~you~destroyed~it.",
+    ["STR_ID_MonkMisery[10583][Text2]"] = "~I~won`t~let~you~go.",
+    ["STR_ID_MonkMisery[10583][Text3]"] = "The~Evil~Array~is~getting~weak.~We~have~no~time~to~waste,~or~the~Flame~Devastator~will~break~through~the~array~and~return.",
+    ["STR_ID_MonkMisery[10583][Text4]"] = "@STR_COMMON[627]",
+    ["STR_ID_MonkMisery[10583][Text5]"] = "The~magic~of~the~Evil~Array~is~getting~weak.~We~need~to~enhance~its~power~before~it`s~too~late.~You~know,~the~Flame~Devastator~is~just~behind~the~seal.",
+    ["STR_ID_MonkMisery[10583][Text6]"] = "The~Evil~Array~is~getting~weak.~We~have~no~time~to~waste,~or~the~Flame~Devastator~will~break~through~the~array~and~return.",
+    ["STR_ID_MonkMisery[10583][Text7]"] = "Why?~For~the~power.~On~the~first~day~I~was~here,~the~Flame~Devastator~and~I~came~to~an~agreement.~I~nourished~him~with~creatures`~souls,",
+    ["STR_ID_MonkMisery[10583][Text8]"] = "~while~he~would~help~me~take~the~throne,~ruling~Twin~City,~even~the~whole~world.",
+    ["STR_ID_MonkMisery[10583][Text9]"] = "Yeah,~I~need~power.~You~know,~it~was~me~who~taught~those~Ghost~Reavers~to~be~invisible.",
+    ["STR_ID_MonkMisery[10583][Text10]"] = "~I`m~the~best~spell~caster,~but~people~envied~me,~and~tried~to~kill~me~here.~I~have~to~disguise~myself~to~survive.",
+    ["STR_ID_MonkMisery[10583][Text11]"] = "~The~time~to~revenge~has~come!",
+    ["STR_ID_MonkMisery[10583][Option1]"] = "Why~you~betrayed?",
+    ["STR_ID_MonkMisery[10583][Option2]"] = "@STR_COMMON[210]",
+    ["STR_ID_MonkMisery[10583][Option3]"] = "@STR_COMMON[628]",
+    ["STR_ID_MonkMisery[10583][Option4]"] = "Enter~the~Evil~Array.",
+    ["STR_ID_MonkMisery[10583][Option5]"] = "@STR_COMMON[210]",
+    ["STR_ID_MonkMisery[10583][Option6]"] = "Is~that~so~important?",
+    ["STR_ID_MonkMisery[10583][Option7]"] = "You...",
+}

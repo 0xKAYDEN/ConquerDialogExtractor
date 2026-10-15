@@ -1,0 +1,22 @@
+return {
+    -- SpringSoldierZhao [8449]
+    ["STR_ID_SpringSoldierZhao[8449][Text1]"] = "Let`s wait and see. The backup will arrive, soon. We are going to remove all the monsters!",
+    ["STR_ID_SpringSoldierZhao[8449][Text2]"] = "Well done! Please accept these rewards.",
+    ["STR_ID_SpringSoldierZhao[8449][Text3]"] = "Why are you still here? I need you to put the Antidote into the source of the Moon Spring, right away!",
+    ["STR_ID_SpringSoldierZhao[8449][Text4]"] = "I need you to put the Antidote into the source of the Moon Spring, right away! Beware of the Level 83 Blade Ghosts, on the way.",
+    ["STR_ID_SpringSoldierZhao[8449][Text5]"] = "@STR_COMMON[26]",
+    ["STR_ID_SpringSoldierZhao[8449][Text6]"] = "Thanks for the antidote! Here`s your reward!",
+    ["STR_ID_SpringSoldierZhao[8449][Text7]"] = "Come back when you will have Antidote.",
+    ["STR_ID_SpringSoldierZhao[8449][Text8]"] = "I need you to put the Antidote into the source of the Moon Spring, right away! Beware of the Level 83 Blade Ghosts, on the way.",
+    ["STR_ID_SpringSoldierZhao[8449][Text9]"] = "Does General ZhuGe have a solution?",
+    ["STR_ID_SpringSoldierZhao[8449][Text10]"] = "The Moon Spring was poisoned! I need you to pay a visit to General ZhuGe and ask him how to solve this problem!",
+    ["STR_ID_SpringSoldierZhao[8449][Text11]"] = "So the Moon Spring is poisoned! Thank you very much for your help.",
+    ["STR_ID_SpringSoldierZhao[8449][Text12]"] = "Did you take the Moon Spring I gave to you?",
+    ["STR_ID_SpringSoldierZhao[8449][Text13]"] = "Recently, many villagers were poisoned by drinking the water from the Moon Spring. Could you test if the water is toxic?",
+    ["STR_ID_SpringSoldierZhao[8449][Text14]"] = "@STR_COMMON[14]",
+    ["STR_ID_SpringSoldierZhao[8449][Option1]"] = "Poisonous~Water~1.",
+    ["STR_ID_SpringSoldierZhao[8449][Option2]"] = "Poisonous~Water~2.",
+    ["STR_ID_SpringSoldierZhao[8449][Option3]"] = "Poisonous~Water~3.",
+    ["STR_ID_SpringSoldierZhao[8449][Option4]"] = "Poisonous~Water~4.",
+    ["STR_ID_SpringSoldierZhao[8449][Option5]"] = "@STR_COMMON[198]",
+}
